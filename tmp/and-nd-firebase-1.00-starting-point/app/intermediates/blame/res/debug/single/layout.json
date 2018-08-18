@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_provider_button_email.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_provider_button_email.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_confirmation_code_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_confirmation_code_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_auth_method_picker_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_idp_button_google.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_idp_button_google.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_welcome_back_password_prompt_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_forgot_password_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_forgot_password_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Andriod Projects\\and-nd-firebase-1.00-starting-point\\and-nd-firebase-1.00-starting-point\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_idp_button_facebook.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_idp_button_facebook.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_activity_register_phone.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_activity_register_phone.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_welcome_back_idp_prompt_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\item_message.xml",
+        "source": "E:\\Andriod Projects\\and-nd-firebase-1.00-starting-point\\and-nd-firebase-1.00-starting-point\\app\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_dgts_country_row.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_dgts_country_row.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_provider_button_phone.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_provider_button_phone.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_check_email_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_check_email_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_idp_button_twitter.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_idp_button_twitter.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_phone_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_phone_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_activity_register_email.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_activity_register_email.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_phone_progress_dialog.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_phone_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\fui_register_email_layout.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\2.3.0\\res\\layout\\fui_register_email_layout.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    }
+]

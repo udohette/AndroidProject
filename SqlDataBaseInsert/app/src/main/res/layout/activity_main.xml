@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.sqldatabaseinsert.MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/UserName"
+        android:id="@+id/userName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true" />
+
+    <EditText
+        android:inputType="textCapCharacters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/userNameValue"
+        android:layout_below="@+id/userName"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+    <requestFocus/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/password"
+        android:id="@+id/password"
+        android:layout_below="@+id/userNameValue"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordValue"
+        android:inputType="numberPassword"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+    <requestFocus/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="addUser"
+        android:text="@string/addUser"
+        android:id="@+id/addUser"
+        android:layout_below="@+id/passwordValue"
+        android:layout_alignStart="@id/passwordValue"
+        android:layout_alignLeft="@id/passwordValue"
+        android:layout_alignEnd="@id/passwordValue"
+        android:layout_alignRight="@id/passwordValue" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ViewAllDetails"
+        android:id="@+id/detailsButton"
+        android:layout_below="@+id/addUser"
+        android:onClick="viewDetails"
+        android:layout_alignLeft="@id/addUser"
+        android:layout_alignStart="@id/addUser"
+        android:layout_alignRight="@id/addUser"
+        android:layout_alignEnd="@id/addUser"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:layout_below="@+id/detailsButton"
+        android:layout_alignLeft="@id/detailsButton"
+        android:layout_alignRight="@id/detailsButton"
+        android:layout_alignEnd="@id/detailsButton"
+        android:layout_alignStart="@id/detailsButton"
+        android:ems="10"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:hint="@string/Hint"/>
+    <requestFocus/>
+
+    <Button
+        android:onClick="getDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/getDetails"
+        android:id="@+id/button"
+        android:layout_below="@+id/name"
+        android:layout_alignEnd="@id/name"
+        android:layout_alignRight="@id/name"
+        android:layout_alignStart="@id/name"
+        android:layout_alignLeft="@id/name" />
+
+</RelativeLayout>

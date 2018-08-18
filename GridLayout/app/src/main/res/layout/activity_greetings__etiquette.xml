@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:drawSelectorOnTop="true"
+    android:orientation="vertical"
+    tools:context="com.example.android.gridlayout.Greetings_Etiquette">
+    <include layout="@layout/toolbar_layout"/>
+
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list_view"
+        android:orientation="vertical"
+        android:drawSelectorOnTop="true"
+        android:layout_margin="8dp"
+        tools:context="com.example.android.gridlayout.Greetings_Etiquette">
+
+    </ListView>
+
+</LinearLayout>
+

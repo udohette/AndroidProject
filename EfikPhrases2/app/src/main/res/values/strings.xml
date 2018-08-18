@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EfikPhrases2</string>
+    <!-- this category is for the Greetings_Etiquette-->
+    <string-array name="Title">
+        <item>Services</item>
+        <item>Activities)</item>
+        <item>Broadcast receivers</item>
+        <item>Content providers</item>
+
+    </string-array>
+    <string-array name="Description">
+        <item>A service </item>
+        <item>An activity is the entry point for interacting with the user. </item>
+        <item>A broadcast receiver is a component that enables the system to deliver events to the app outside of a regular user flow broadcast announcements. Because broadcast </item>
+        <item>A content provider manages a shared set of app data that you can store in the file system.on.  system-design perspective. To the system.</item>
+
+    </string-array>
+</resources>

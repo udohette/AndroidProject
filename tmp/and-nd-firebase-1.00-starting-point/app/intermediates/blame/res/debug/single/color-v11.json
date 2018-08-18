@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

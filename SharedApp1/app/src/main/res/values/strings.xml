@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SharedApp1</string>
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+    </string-array>
+    <string-array name="imageUrl">
+        <item>https://static.pexels.com/photos/160836/heart-cord-suspended-love-160836.jpeg</item>
+        <item>https://www.pexels.com/search/love/</item>
+        <item>https://www.pexels.com/photo/sunset-hands-love-woman-5390/</item>
+        <item>https://www.pexels.com/photo/baby-children-cute-dress-264109/</item>
+        <item>https://www.pexels.com/photo/artistic-blossom-bright-clouds-207962/</item>
+        <item>https://www.pexels.com/photo/three-red-hearts-hanging-with-white-flowers-160836/</item>
+    </string-array>
+</resources>

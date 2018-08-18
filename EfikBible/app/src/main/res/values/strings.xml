@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Efik Bible</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Books">
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+
+
+    </string-array>
+        <string-array name="Chapters">
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+            <item>6</item>
+            <item>7</item>
+            <item>8</item>
+            <item>9</item>
+            <item>10</item>
+            <item>11</item>
+            <item>12</item>
+    </string-array>
+    <string name="chapter_fragment">This A Simple Text</string>
+</resources>

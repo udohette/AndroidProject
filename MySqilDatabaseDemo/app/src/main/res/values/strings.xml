@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySqilDatabaseDemo</string>
+    <string name="username">user name</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="regForm">Registration Form</string>
+</resources>

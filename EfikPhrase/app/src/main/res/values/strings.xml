@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Efik Phrase</string>
+    <string name="Category_Greetings_Etiquette">Greetings/Etiquette</string>
+    <string name="Category_Meeting_People">Meeting People</string>
+    <string name="Category_Family_Members">Family Members</string>
+    <string name="Category_Questioning">Questioning</string>
+    <string name="Category_Verbs_and_Pronouns">Verbs and Pronouns</string>
+    <string name="Category_Numbers">Numbers</string>
+    <string name="Category_Sums_Ordinals">Sums and Ordinal</string>
+    <string name="Category_Shopping">Shopping</string>
+    <string name="Category_Time">Time</string>
+    <string name="Category_Weather">Weather</string>
+    <string name="Category_Directions">Directions</string>
+    <string name="Category_Human_Anatomy">Human Anatomy</string>
+    <string name="Category_Education">Education</string>
+    <string name="Category_Religion">Religion</string>
+    <string name="Category_Food_and_Drink">Food and Drink</string>
+    <string name="Category_Around_The_House">Around The House</string>
+    <string name="Category_Clothing">Clothing</string>
+    <string name="Category_Colours">Colours</string>
+    <string name="Category_Health">Health</string>
+    <string name="Category_Animals">Animals</string>
+    <string name="Category_Landscape">Landscape</string>
+    <!-- this category is for the Greetings_Etiquette-->
+    <string-array name="Greeting_Etiquette_Eng">
+        <item>Good Bye</item>
+        <item>Good Morning(Response)</item>
+        <item>Good Night</item>
+        <item>Good Night(Response)</item>
+        <item>Hello/Good Afternoon</item>
+        <item>How are you?</item>
+        <item>How is it with you?</item>
+        <item>I am Well</item>
+        <item>Please</item>
+        <item>Thank you</item>
+        <item>Thank You(Very Much)</item>
+        <item>Welcome</item>
+    </string-array>
+    <string-array name="Greeting_Etiquette_Efik">
+        <item>Tie Suŋ</item>
+        <item>Emesiere</item>
+        <item>Emesiere Nde</item>
+        <item>Esiere</item>
+        <item>Esiere Nde</item>
+        <item>Mɔkɔm</item>
+        <item>HIdem Fo?</item>
+        <item>Etie Didie?</item>
+        <item>Idem Mi ɔsɔŋ</item>
+        <item>Mbɔk</item>
+        <item>Sɔsɔŋɔ</item>
+        <item>Sɔsɔŋɔ (Eti Eti)</item>
+        <item>Emedi</item>
+    </string-array>
+
+
+</resources>

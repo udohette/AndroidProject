@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">search_hint</string>
+    <string name="label">search_label</string>
+    <string name="search_Global_Description">search_global_description</string>
+
+</resources>

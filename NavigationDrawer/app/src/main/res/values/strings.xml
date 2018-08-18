@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string-array name="EfikPhrases">
+    <item>Greetings/Etiquette</item>
+    <item>Animals</item>
+    <item>Around The House</item>
+    <item>Clothing</item>
+    <item>Colors</item>
+    <item>Landscape</item>
+    <item>Directions</item>
+    <item>Education</item>
+    <item>Food And Drink</item>
+    <item>Meeting People</item>
+    <item>Religion</item>
+    <item>Sums and Ordinal</item>
+    <item>Time</item>
+    <item>Verbs and Pronouns</item>
+    <item>Weather</item>
+    <item>Shopping</item>
+    <item>Numbers</item>
+    <item>Human Anatomy</item>
+    <item>Health</item>
+    <item>Names and Meaning</item>
+    </string-array>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation drawer</string>
+    <string-array name="colors">colors
+        <item>Red</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Black</item>
+    </string-array>
+</resources>

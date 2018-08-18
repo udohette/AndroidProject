@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchViewExpandableListView</string>
+    <string name="Search">Search</string>
+    <string name="Settings">Settings</string>
+</resources>

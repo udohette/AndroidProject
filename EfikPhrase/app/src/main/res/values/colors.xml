@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Activity_main">#FFF7DA</color>
+    <color name="Category_GreetingsEtiquette">#616161</color>
+    <color name="Category_Meeting_People">#4e342e</color>
+    <color name="Category_Family_Members">#ff3d00</color>
+    <color name="Category_Questioning">#ffff00</color>
+    <color name="Category_Verbs_and_Pronouns">#69f0ae</color>
+    <color name="Category_Numbers">#827717</color>
+    <color name="Category_Sums_Ordinals">#00bfa5</color>
+    <color name="Category_Shopping">#0091ea</color>
+    <color name="Category_Time">#006064</color>
+    <color name="Category_Weather">#212121</color>
+    <color name="Category_Directions">#b388ff</color>
+    <color name="Category_Human_Anatomy">#c51162</color>
+    <color name="Category_Religion">#ffd600</color>
+    <color name="Category_Food_and_Drink">#e91e63</color>
+    <color name="Category_Around_The_House">#827717</color>
+    <color name="Category_Clothing">#cddc39</color>
+    <color name="Category_Colours"> #9e9e9e</color>
+    <color name="Category_Health">#311b92</color>
+    <color name="Category_Animals">#607d8b</color>
+    <color name="Category_Landscape">#00bfa5</color>
+    <color name="Category_Education">#ff6f00</color>
+</resources>

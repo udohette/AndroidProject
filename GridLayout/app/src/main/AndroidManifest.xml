@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.gridlayout">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="android.app.searchable"
+            android:resource="@xml/searchable" />
+
+        <!-- suppress AndroidElementNotAllowed -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/ApplicationName"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.SEARCH" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name=".Greetings_Etiquette"
+            android:label="Greetings/Etiquette" />
+        <activity
+            android:name=".Animals"
+            android:label="Animals" />
+        <activity
+            android:name=".Around_the_House"
+            android:label="Around The House" />
+        <activity
+            android:name=".Clothing"
+            android:label="Clothing" />
+        <activity
+            android:name=".Colors"
+            android:label="Colors" />
+        <activity
+            android:name=".Landscape"
+            android:label="Landscape" />
+        <activity
+            android:name=".Directions"
+            android:label="Directions" />
+        <activity
+            android:name=".Education"
+            android:label="Education" />
+        <activity
+            android:name=".Food_and_Drink"
+            android:label="Food and Drink" />
+        <activity
+            android:name=".Meeting_People"
+            android:label="Meeting People" />
+        <activity
+            android:name=".Religion"
+            android:label="Religion" />
+        <activity
+            android:name=".Sums_Ordinal"
+            android:label="Sums And Ordinal" />
+        <activity
+            android:name=".Time"
+            android:label="Time" />
+        <activity
+            android:name=".Verbs_prounouns"
+            android:label="Verbs And Pronouns" />
+        <activity android:name=".Weather" />
+        <activity
+            android:name=".Shopping"
+            android:label="Shopping" />
+        <activity
+            android:name=".Human_anatomy"
+            android:label="Human Anatomy" />
+        <activity
+            android:name=".Numbers"
+            android:label="Numbers" />
+        <activity
+            android:name=".Health"
+            android:label="Health" />
+        <activity
+            android:name=".Names_meaning"
+            android:label="Names and Meaning" />
+        <activity android:name=".Gallery"
+            android:parentActivityName=".MainActivity"/>
+        <meta-data android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity"/>
+    </application>
+
+</manifest>

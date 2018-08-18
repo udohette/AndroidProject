@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bible</string>
+    <string-array name="Books">
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+
+
+    </string-array>
+    <string-array name="chapters">
+        <item>Genesis 2;1-25
+2  Ntem ke ẹnam enyọn̄ ye isọn̄ ye kpukpru se idude mmọ ke esịt ẹma.+ 2  Ndien etisịm ọyọhọ usen itiaba Abasi okụre utom esie emi enye akanamde, ndien ke ọyọhọ usen itiaba enye ọduọk odudu ke kpukpru utom esie eke enye akanamde.+ 3  Ndien Abasi ọdiọn̄ ọyọhọ usen itiaba onyụn̄ anam enye edi edisana, koro ke usen oro ke Abasi ọduọk odudu ke ofụri utom esie emi enye okobotde okonyụn̄ aduakde ndinam.+ 4  Emi edi mbụk aban̄ade enyọn̄ ye isọn̄ ke ini emi ẹkebotde mmọ, ke usen oro Jehovah Abasi akanamde isọn̄ ye enyọn̄.+ 5  Ndien eto ndomokiet ikodụhe kan̄a ke isọn̄, baba ikọn̄ kiet ikonyụn̄ itịbeke kan̄a, koro Jehovah Abasi mîkanamke edịm edep+ kan̄a ke isọn̄, owo mîkonyụn̄ idụhe ndifụn̄ isọn̄. 6  Edi ntụhube+ oto isọn̄ ọdọk onyụn̄ ebịt </item>
+        <item>Genesis 2;1-25
+2  Ntem ke ẹnam enyọn̄ ye isọn̄ ye kpukpru se idude mmọ ke esịt ẹma.+ 2  Ndien etisịm ọyọhọ usen itiaba Abasi okụre utom esie emi enye akanamde, ndien ke ọyọhọ usen itiaba enye ọduọk odudu ke kpukpru utom esie eke enye akanamde.+ 3  Ndien Abasi ọdiọn̄ ọyọhọ usen itiaba onyụn̄ anam enye edi edisana, koro ke usen oro ke Abasi ọduọk odudu ke ofụri utom esie emi enye okobotde okonyụn̄ aduakde ndinam.+ 4  Emi edi mbụk aban̄ade enyọn̄ ye isọn̄ ke ini emi ẹkebotde mmọ, ke usen oro Jehovah Abasi akanamde isọn̄ ye enyọn̄.+ 5  Ndien eto ndomokiet ikodụhe kan̄a ke isọn̄, baba ikọn̄ kiet ikonyụn̄ itịbeke kan̄a, koro Jehovah Abasi mîkanamke edịm edep+ kan̄a ke isọn̄, owo mîkonyụn̄ idụhe ndifụn̄ isọn̄. 6  Edi ntụhube+ oto isọn̄ ọdọk onyụn̄ ebịt ofụri iso isọn̄.+ 7  Ndien Jehovah Abasi obot owo ke ntan+ isọn̄+ onyụn̄ ọduọk ibifịk uwem+ esịn </item>
+        <item>Genesis 5;1-32
+WỤT
+5  Emi edi n̄wed mbụk emana Adam. Ke usen emi Abasi obotde Adam, Enye anam enye ke mbiet Abasi.+ 2  Enye obot mmọ eren ye n̄wan.+ Ekem enye ọdiọn̄ mmọ onyụn̄ okot mmọ Owo+ ke usen emi enye okobotde mmọ.+ 3  Ndien Adam odu uwem isua ikie ye edịp ye duop. Ndien enye obon eyen ke mbiet esie, etie nte enye, onyụn̄ osio enye enyịn̄ Seth.+ 4  Ndien ke Adam ama okobon Seth, enye odu uwem isua ikie itiaita. Enye onyụn̄ obon nditọiren ye nditọiban.+ 5  Ntre ofụri isua uwem Adam edi isua ikie usụkkiet ye edịp ye duop ndien enye akpa.+ 6  Ndien Seth odu uwem isua ikie ye ition. Ekem enye obon Enosh.+ 7  Ndien ke Seth ama okobon Enosh, enye odu uwem isua ikie itiaita ye itiaba. Enye onyụn̄ obon </item>
+
+
+    </string-array>
+</resources>

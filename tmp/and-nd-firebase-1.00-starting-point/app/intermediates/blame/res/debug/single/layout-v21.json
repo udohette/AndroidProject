@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\tmp\\and-nd-firebase-1.00-starting-point\\app\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

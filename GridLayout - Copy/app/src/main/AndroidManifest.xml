@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.gridlayout">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Efik Phrases"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Greetings_Etiquette"
+            android:label="Greetings/Etiquette" />
+        <activity
+            android:name=".Animals"
+            android:label="Animals" />
+        <activity
+            android:name=".Around_the_House"
+            android:label="Around The House" />
+        <activity
+            android:name=".Clothing"
+            android:label="Clothing" />
+        <activity
+            android:name=".Colors"
+            android:label="Colors" />
+        <activity
+            android:name=".Landscape"
+            android:label="Landscape" />
+        <activity
+            android:name=".Directions"
+            android:label="Directions" />
+        <activity
+            android:name=".Education"
+            android:label="Education" />
+        <activity
+            android:name=".Food_and_Drink"
+            android:label="Food and Drink" />
+        <activity android:name=".Meeting_People"
+            android:label="Meeting People"/>
+        <activity
+            android:name=".Religion"
+            android:label="Religion" />
+        <activity
+            android:name=".Sums_Ordinal"
+            android:label="Sums And Ordinal" />
+        <activity
+            android:name=".Time"
+            android:label="Time" />
+        <activity
+            android:name=".Verbs_prounouns"
+            android:label="Verbs And Pronouns" />
+        <activity android:name=".Weather" />
+        <activity
+            android:name=".Shopping"
+            android:label="Shopping" />
+        <activity
+            android:name=".Human_anatomy"
+            android:label="Human Anatomy" />
+        <activity
+            android:name=".Numbers"
+            android:label="Numbers" />
+        <activity
+            android:name=".Health"
+            android:label="Health"></activity>
+        <activity android:name=".Names_meaning"
+            android:label="Names and Meaning">
+
+        </activity>
+    </application>
+
+</manifest>

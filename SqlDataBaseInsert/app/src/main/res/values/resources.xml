@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addUser">Add User</string>
+    <string name="getDetails">Get Details</string>
+    <string name="ViewAllDetails">View All Details</string>
+    <string name="Hint">Enter the name whose password you want</string>
+    <string name="UserName">User Name</string>
+    <string name="password">PassWord</string>
+    <string name="enter_user_name">Please Enter your User Name</string>
+
+
+</resources>

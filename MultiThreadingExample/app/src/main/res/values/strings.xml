@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MultiThreadingExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        </string-array>
+    <string-array name="imageUrls">
+        <item>http://www.sideshowtoy.com/mas_assets/jpg/4609_press02–001.jpg</item>
+        <item>http://pixabay.com/en/laptop-tab-headphone-workstation-1483974/</item>
+        <item>http://www.pexels.com/photo/white-black-laptop-computer-38892/</item>
+        <item>http://pixabay.com/en/laptop-black-blue-screen-monitor-33521/</item>
+        <item>http://pixabay.com/en/children-win-success-video-game-593313/</item>
+        <item>http://pixabay.com/en/baby-boy-child-childhood-computer-84626/</item>
+    </string-array>
+</resources>

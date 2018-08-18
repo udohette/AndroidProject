@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "415026523478",
+    "firebase_url": "https://efikphrase.firebaseio.com",
+    "project_id": "efikphrase",
+    "storage_bucket": "efikphrase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415026523478:android:583477a09a617441",
+        "android_client_info": {
+          "package_name": "com.example.android.gridlayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415026523478-o069bhcds1r2pfl555kg8ph4lf2r2p56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJWBtxy6fTnfJDOZvcrU1xVLxaWGrTD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

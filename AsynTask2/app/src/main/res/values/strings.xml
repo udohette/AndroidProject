@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AsynTask2</string>
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>image 7</item>
+    </string-array>
+    <string-array name="imageUrls">
+        <item>https://www.sideshowtoy.com/mas_assets/jpg/4609_press02–001.jpg</item>
+        <item>https://pixabay.com/en/laptop-tab-headphone-workstation-1483974/</item>
+        <item>https://www.pexels.com/photo/white-black-laptop-computer-38892/</item>
+        <item>https://pixabay.com/en/laptop-black-blue-screen-monitor-33521/</item>
+        <item>https://pixabay.com/en/children-win-success-video-game-593313/</item>
+        <item>https://pixabay.com/en/baby-boy-child-childhood-computer-84626/</item>
+        <item>https://images.gamersyde.com/image_halo_4–19340–2311_0001.jpg</item>
+    </string-array>
+</resources>
